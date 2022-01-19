@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.25rem;
+  color: #F3F4ED;
+}
+
+p{
+  font-size: 0.875rem;
+  color: #A2B29F;
+}
+
+h3 {
+  font-size: 0.875rem;
+  color: #00ADB5;
+}
+a {
+  text-align: center;
+  color: #00ADB5;
+  text-decoration: none;
+}
+hr {
+  width: 220px;
+  border-color: #343A40;
+  margin: 10px auto 10px+;
+}
+span {
+  color: #7C99AC;
+}
+.container {
+  font-family: Outfit;
+  background-color: #041C32;
+  margin: 100px 550px auto 550px;
+  padding: 12px;
+  border-radius: 8px;
+  position: relative;
+  letter-spacing: 2;
+}
+
+.top-image {
+  width: 225px;
+  border-radius: 8px;
+}
+.profile {
+  background-color: #2B4F60;
+}
+.middle {
+  margin: 10px auto 20px auto;
+  height: auto;
+  position: relative;
+  font-size: 0.875rem;
+}
+.ethereum {
+  color: #00FFF8;
+  margin-right: 60px;
+  text-align: center;
+}
+
+.clock {
+  color: #8BACD9;
+  text-align: center;
+}
+
+.icon-1 {
+  position: relative;
+  top: 4px;
+}
+
+.icon-2 {
+  position: relative;
+  top: 1px;
+}
+
+.bottom {
+  color: #F3F4ED;
+  margin-bottom: 20px;
+  text-align: center;
+  position: relative;
+}
+.bottom-image {
+  width: 30px;
+  margin-right: 20px;
+  float: left;
+}
+.name-bottom {
+  position: relative;
+  top: 10px;
+  right:  30px;
+}
+
+.attribution {
+  margin: 100px auto 10px 0;
+  position: relative;
+  background-color: black;
+  padding: 20px;
+  color: #F3F4ED;
+  text-align: center;
+}
